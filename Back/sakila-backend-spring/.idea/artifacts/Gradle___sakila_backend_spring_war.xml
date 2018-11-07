@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : sakila-backend-spring.war">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="sakila-backend-spring.war">
+      <element id="artifact" artifact-name="Gradle : sakila-backend-spring.war (exploded)" />
+    </root>
+  </artifact>
+</component>
